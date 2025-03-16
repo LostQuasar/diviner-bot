@@ -2,7 +2,6 @@ import discord
 import dotenv
 import os
 import pubchem
-import metmuseum
 
 bot = discord.Bot()
 dotenv.load_dotenv()
